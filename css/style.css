@@ -1,0 +1,420 @@
+body {
+  font-family: "Heebo", sans-serif;
+  background-color: #fbfbfb;
+}
+a {
+  text-decoration: none;
+}
+.hero_text_1 > a {
+  color: #21243d;
+}
+.hero_text_2 > a {
+  color: #21243d;
+}
+.hero_text_3 > a {
+  color: #21243d;
+}
+
+.nav-home {
+  position: absolute;
+  width: 57px;
+  height: 43px;
+  left: 820px;
+  top: 27px;
+
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 29px;
+  text-align: right;
+
+  color: #000000;
+}
+.nav-works {
+  position: absolute;
+  width: 71px;
+  height: 43px;
+  left: 914px;
+  top: 27px;
+
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 29px;
+  text-align: right;
+
+  color: #000000;
+}
+.nav-contact {
+  position: absolute;
+  width: 71px;
+  height: 43px;
+  left: 1022px;
+  top: 27px;
+
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 29px;
+  text-align: right;
+
+  color: #000000;
+}
+.hero {
+  position: absolute;
+  width: 506px;
+  height: 105px;
+  left: 148px;
+  top: 228px;
+
+  font-style: normal;
+  font-weight: bold;
+  font-size: 44px;
+  line-height: 60px;
+  /* or 136% */
+
+  /* Dark Color */
+
+  color: #21243d;
+}
+.img_elp {
+  position: absolute;
+  width: 243px;
+  height: 243px;
+  left: 755px;
+  top: 223px;
+}
+.img_hero {
+  position: absolute;
+  width: 243px;
+  height: 243px;
+  left: 760px;
+  top: 210px;
+}
+.description {
+  position: absolute;
+  width: 497px;
+  height: 66px;
+  left: 148px;
+  top: 373px;
+
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 23px;
+
+  /* Dark Color */
+
+  color: #21243d;
+}
+.btn_resume {
+  position: absolute;
+  width: 208px;
+  height: 47px;
+  left: 148px;
+  top: 477px;
+
+  /* Primary */
+
+  background: #ff6464;
+  border-radius: 2px;
+}
+.btn_text {
+  align-items: center;
+  justify-content: center;
+  width: 167px;
+  height: 21px;
+  left: 168px;
+  top: 486px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 29px;
+
+  color: #ffffff;
+}
+
+.ftr_works {
+  position: absolute;
+  width: 152px;
+  height: 60px;
+  left: 148px;
+  top: 711px;
+
+  font-family: Heebo;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 22px;
+  line-height: 60px;
+  /* identical to box height, or 273% */
+
+  /* Dark Color */
+
+  color: #21243d;
+}
+.img_1 {
+  background-image: url("../img/proj_1.png");
+  position: absolute;
+  width: 246px;
+  height: 180px;
+  left: 146px;
+  top: 793px;
+}
+
+.img_2 {
+  background-image: url("../img/proj_2.png");
+  position: absolute;
+  width: 246px;
+  height: 180px;
+  left: 146px;
+  top: 1019px;
+}
+.img_3 {
+  background-image: url("../img/proj_3.png");
+  position: absolute;
+  width: 246px;
+  height: 184px;
+  left: 146px;
+  top: 1265px;
+}
+.rect1 {
+  position: absolute;
+  width: 62px;
+  height: 25px;
+  left: 410px;
+  top: 846px;
+
+  background: #142850;
+  border-radius: 16px;
+}
+.rect2 {
+  position: absolute;
+  width: 62px;
+  height: 25px;
+  left: 410px;
+  top: 1077px;
+
+  background: #142850;
+  border-radius: 16px;
+}
+
+.rect3 {
+  position: absolute;
+  width: 62px;
+  height: 25px;
+  left: 410px;
+  top: 1322px;
+
+  background: #142850;
+  border-radius: 16px;
+}
+.text_rect_1 {
+  position: absolute;
+  width: 42px;
+  height: 60px;
+  left: 420px;
+  top: 828px;
+
+  font-style: normal;
+  font-weight: 900;
+  font-size: 18px;
+  line-height: 60px;
+  /* identical to box height, or 333% */
+
+  color: #ffffff;
+}
+.text_rect_2 {
+  position: absolute;
+  width: 42px;
+  height: 60px;
+  left: 420px;
+  top: 1059px;
+
+  font-style: normal;
+  font-weight: 900;
+  font-size: 18px;
+  line-height: 60px;
+  /* identical to box height, or 333% */
+
+  color: #ffffff;
+}
+.text_rect_3 {
+  position: absolute;
+  width: 42px;
+  height: 60px;
+  left: 420px;
+  top: 1304px;
+
+  font-family: Heebo;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 18px;
+  line-height: 60px;
+  /* identical to box height, or 333% */
+
+  color: #ffffff;
+}
+.type1 {
+  position: absolute;
+  width: 374px;
+  height: 34px;
+  left: 498px;
+  top: 842px;
+
+  font-family: Heebo;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 29px;
+
+  /* Light */
+
+  color: #8695a4;
+}
+.type2 {
+  position: absolute;
+  width: 374px;
+  height: 34px;
+  left: 498px;
+  top: 1073px;
+
+  font-family: Heebo;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 29px;
+
+  /* Light */
+
+  color: #8695a4;
+}
+
+.type3 {
+  position: absolute;
+  width: 374px;
+  height: 34px;
+  left: 498px;
+  top: 1318px;
+
+  font-family: Heebo;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 29px;
+
+  /* Light */
+
+  color: #8695a4;
+}
+.hero_text_1 {
+  position: absolute;
+  width: 226px;
+  height: 44px;
+  left: 410px;
+  top: 782px;
+
+  font-family: Heebo;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 44px;
+  /* identical to box height */
+
+  /* Dark Color */
+
+  color: #21243d;
+}
+.hero_text_2 {
+  position: absolute;
+  width: 421px;
+  height: 44px;
+  left: 410px;
+  top: 1017px;
+
+  font-family: Heebo;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 44px;
+  /* identical to box height */
+
+  /* Dark Color */
+
+  color: #21243d;
+}
+.hero_text_3 {
+  position: absolute;
+  width: 334px;
+  height: 44px;
+  left: 410px;
+  top: 1265px;
+
+  font-family: Heebo;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 44px;
+  /* identical to box height */
+
+  /* Dark Color */
+
+  color: #21243d;
+}
+footer {
+  position: absolute;
+  width: 1152px;
+  height: 182px;
+  left: 0px;
+  top: 1621px;
+}
+
+.copy {
+  position: absolute;
+  height: 21px;
+  left: 40.28%;
+  right: 40.45%;
+  top: calc(50% - 21px / 2 + 26.5px);
+
+  font-family: Heebo;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 21px;
+  /* identical to box height */
+
+  text-align: center;
+
+  /* Dark */
+
+  color: #21243d;
+}
+.fb {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  left: calc(50% - 30px / 2 - 102px);
+  top: calc(50% - 30px / 2 - 25px);
+
+  /* Dark */
+}
+.insta {
+  position: absolute;
+  left: 45.49%;
+  right: 51.91%;
+  top: 28.02%;
+  bottom: 55.49%;
+}
+.twitter {
+  position: absolute;
+  left: 51.13%;
+  right: 45.67%;
+  top: 28.02%;
+  bottom: 55.49%;
+}
+.linkedin {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  left: calc(50% - 30px / 2 + 100px);
+  top: calc(50% - 30px / 2 - 25px);
+}
